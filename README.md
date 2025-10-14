@@ -8,8 +8,8 @@
 - 🚗 **2025 - 만도 자율주행 대회** — *팀장으로 참가*
 
 ## Extracurricular / Certificates
-![ROS](https://img.shields.io/badge/ROS-Completed-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Digital Twin](https://img.shields.io/badge/Digital%20Twin-Completed-455A64?style=for-the-badge)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Digital Twin](https://img.shields.io/badge/Digital%20Twin-455A64?style=for-the-badge)
 
 ## Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
