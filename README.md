@@ -1,36 +1,45 @@
 ## Hi I'm Subin👋
 
-### Language
-
 ## Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ## Embedded Systems
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![IMX500 AI Camera](https://img.shields.io/badge/IMX500_AI_Camera-0D47A1?style=for-the-badge)
+![Nano 33 BLE Rev2](https://img.shields.io/badge/Nano%2033%20BLE%20Rev2-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![OBD-II](https://img.shields.io/badge/OBD--II-FF8F00?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Jetson Orin](https://img.shields.io/badge/Jetson%20Orin-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 
-## AI / ML
+## AI
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![YOLOv5/v8](https://img.shields.io/badge/YOLOv5%2Fv8-00A8E8?style=for-the-badge)
-![openSMILE](https://img.shields.io/badge/openSMILE-6A1B9A?style=for-the-badge)
+![YOLOv8/v11](https://img.shields.io/badge/YOLOv8%2Fv11-00A8E8?style=for-the-badge)
 ![CNN](https://img.shields.io/badge/CNN-000000?style=for-the-badge)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-2962FF?style=for-the-badge)
 ![Backpropagation](https://img.shields.io/badge/Backpropagation-2E7D32?style=for-the-badge)
-![Custom Dataset](https://img.shields.io/badge/Custom%20Dataset-1976D2?style=for-the-badge)
+![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-0277BD?style=for-the-badge)
 
-## Simulation
+## Sensors
+![MPU-9250](https://img.shields.io/badge/MPU--9250-1E88E5?style=for-the-badge)
+![BNO055](https://img.shields.io/badge/BNO055-CC0000?style=for-the-badge&logo=bosch&logoColor=white)
+![ZED-F9P](https://img.shields.io/badge/ZED--F9P-EE0000?style=for-the-badge&logo=ublox&logoColor=white)
+![RPLIDAR A2M12](https://img.shields.io/badge/RPLIDAR%20A2M12-1976D2?style=for-the-badge)
+![Ultrasonic Sensor](https://img.shields.io/badge/Ultrasonic%20Sensor-455A64?style=for-the-badge)
+![Pressure Sensor](https://img.shields.io/badge/Pressure%20Sensor-546E7A?style=for-the-badge)
+![ESC](https://img.shields.io/badge/ESC-FF7043?style=for-the-badge)
+![RC Transmitter/Receiver](https://img.shields.io/badge/RC%20Transmitter%2FReceiver-7CB342?style=for-the-badge)
+
+## Modeling & Simulation
 ![Simulink](https://img.shields.io/badge/Simulink-FF8F00?style=for-the-badge&logo=mathworks&logoColor=white)
-![Path Tracking](https://img.shields.io/badge/Path%20Tracking-26A69A?style=for-the-badge)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6D00?style=for-the-badge&logo=autodesk&logoColor=white)
+![Ansys](https://img.shields.io/badge/Ansys-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ## Tools & Env
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -41,22 +50,5 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## Hardware / Sensors
-![FSR Sensor](https://img.shields.io/badge/FSR%20Sensor-455A64?style=for-the-badge)
-![MPU-9250](https://img.shields.io/badge/MPU--9250-1E88E5?style=for-the-badge)
-![HC-SR04](https://img.shields.io/badge/HC--SR04-1976D2?style=for-the-badge)
-![RX-M1616M](https://img.shields.io/badge/RX--M1616M-8E24AA?style=for-the-badge)
-![Servo/ESC](https://img.shields.io/badge/Servo%2FESC-FF7043?style=for-the-badge)
-![RC Receiver](https://img.shields.io/badge/RC%20Receiver-7CB342?style=for-the-badge)
-![Multiplexer](https://img.shields.io/badge/Multiplexer-5C6BC0?style=for-the-badge)
-![IC Design](https://img.shields.io/badge/IC%20Design-90A4AE?style=for-the-badge)
 
-## Web & App
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-263238?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-4DB6AC?style=for-the-badge)
+
