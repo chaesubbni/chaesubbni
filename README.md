@@ -6,6 +6,7 @@
 - 🏆 **2024 · MATLAB** — *자율주행 악천후 개선* — **총장상**
 - 🏅 **2025 · 창의력종합설계** — *뇌성마비 환자를 위한 보행 보조 장치* — **장려상**
 - 🚗 **2025 - 만도 자율주행 대회** — *팀장으로 참가*
+- 🚗 **자율주행 AI 챌린지 — 진행중(2025)**
 
 ## Extracurricular / Certificates
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
