@@ -8,6 +8,10 @@
 - 🚗 **2025 - 만도 자율주행 대회** — *팀장으로 참가*
 - 🚗 **2025 - 자율주행 AI 챌린지** — *진행중*
 
+## BootCamp
+- 🎓 **한화에어로스페이스 스마트 데이터 분석 & 사이언스 부트캠프 - 10/21일 최종 면접
+
+
 ## Extracurricular / Certificates
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Digital Twin](https://img.shields.io/badge/Digital%20Twin-455A64?style=for-the-badge)
