@@ -8,9 +8,6 @@
 - 🚗 **2025 - 만도 자율주행 대회** — *팀장으로 참가*  — **장려상**
 - 🚗 **2025 - 자율주행 AI 챌린지** — *전체 42팀 중 9등*
 
-<img width="981" height="938" alt="image" src="https://github.com/user-attachments/assets/28053349-b544-46ec-b012-26889edddcdf" />
-<img width="926" height="561" alt="image" src="https://github.com/user-attachments/assets/12bff376-a592-4e58-9fb1-4c4fe05b549e" />
-
 
 ## BootCamp
 - 🎓 **한화에어로스페이스 스마트 데이터 사이언스 & AI 부트캠프 - 10/21일 최종 면접
