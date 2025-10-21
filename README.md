@@ -10,7 +10,7 @@
 
 
 ## BootCamp
-- 🎓 **한화에어로스페이스 스마트 데이터 사이언스 & AI 부트캠프 - 10/21일 최종 면접
+- 🎓 **한화에어로스페이스 스마트 데이터 사이언스 & AI 부트캠프
 
 
 ## Extracurricular / Certificates
