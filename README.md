@@ -1,5 +1,7 @@
 ## Hi I'm Subin👋
 
+## 🎓 Education
+- 🏫 **Embedded Systems Engineering** — *임베디드시스템공학과*
 
 ## Awards & Achievements
 - 🏅 **2020 · 메이커스페이스 경진대회** — *색 인식 장치 + 연동 App* — **우수상**
@@ -13,4 +15,5 @@
 - 🚗 **2026 - 자율주행 AI 챌린지** — *자율차 주변 미래궤적 예측 모델 개발* — **진행 중**
 
 ## 🚁 Clubs & Activities
-- ⚙️ **ESC (Embedded System Club)** — *교내 드론 제어 및 임베디드 소모임*
+- ⚙️ **ESC (Embedded System Club)** — *교내 드론 제어 소모임*
+
