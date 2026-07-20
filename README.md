@@ -15,5 +15,5 @@
 - 🚗 **2026 - 자율주행 AI 챌린지** — *자율차 주변 미래궤적 예측 모델 개발* — **진행 중**
 
 ## 🚁 Clubs & Activities
-- ⚙️ **ESC (Embedded System Club)** — *교내 드론 제어 소모임*
+- ⚙️ **ESC (Embedded System Club)** — *교내 드론 소모임*
 
