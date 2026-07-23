@@ -18,4 +18,3 @@
 
 ## 🚁 Clubs & Activities
 - ⚙️ **ESC (Embedded System Club)** — *교내 드론 소모임*
-
