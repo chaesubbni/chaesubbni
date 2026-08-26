@@ -22,4 +22,4 @@
 
 
 ## 💼 Experience / Internship
-- 🏢 **2026 · 현대모비스** — *채용 연계형 인턴* — **진행 중** (SW/로직_SW/Logic-판단/제어_Deciding/Control-모터/판단제어로직_Motor/Decision Control Logic-의왕연구소_Uiwang Research Center)
+- 🏢 **2026 · 현대모비스** — *채용 연계형 인턴* — **진행 중** (SW/모터/판단제어로직-의왕연구소)
