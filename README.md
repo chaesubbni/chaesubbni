@@ -3,6 +3,12 @@
 ## 🎓 Education
 - 🏫 **Embedded Systems Engineering** — *임베디드시스템공학과*
 
+## 💼 Experience / Internship
+- 🏢 **2026 · 현대모비스** — *채용 연계형 인턴* — **진행 중** (SW/모터/판단제어로직-의왕연구소)
+
+## 🚁 Clubs & Activities
+- ⚙️ **ESC (Embedded System Club)** — *교내 드론 소모임*
+
 ## Awards & Achievements
 - 🏅 **2020 · 메이커스페이스 경진대회** — *색 인식 장치 + 연동 App* — **우수상**
 - 🏅 **2024 · MATLAB** — *자율주행 악천후 개선* — **최우수상**
@@ -15,9 +21,7 @@
 
 
 
-## 🚁 Clubs & Activities
-- ⚙️ **ESC (Embedded System Club)** — *교내 드론 소모임*
 
 
-## 💼 Experience / Internship
-- 🏢 **2026 · 현대모비스** — *채용 연계형 인턴* — **진행 중** (SW/모터/판단제어로직-의왕연구소)
+
+
