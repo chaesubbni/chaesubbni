@@ -3,9 +3,6 @@
 ## 🎓 Education
 - 🏫 **Embedded Systems Engineering** — *임베디드시스템공학과*
 
-## 💼 Experience / Carrer
-- 🏢 ** 2026 · 현대모비스 ** — * SW/인버터 판단 제어 (의왕연구소) *
-
 ## 🚁 Clubs & Activities
 - ⚙️ **ESC (Embedded System Club)** — *교내 드론 소모임*
 
